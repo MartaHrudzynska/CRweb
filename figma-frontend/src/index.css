@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: 'Pacifico', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'pacifico', monospace;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
